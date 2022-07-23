@@ -1,0 +1,1 @@
+El username: pedro25 con password: 1234, es administrador de los siguientes programas: [Programa1, Programa2, Programa3]
